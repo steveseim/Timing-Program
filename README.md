@@ -5,3 +5,5 @@ This is a small app I made for a previous job at a video production company. It 
 Running Main.py opens the program with GUI. 
 
 Requirements: Python 3.5, PyQt5
+
+![Preview Image](Timing-Program-GUI.png)
