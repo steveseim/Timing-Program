@@ -16,7 +16,7 @@ def video_timing (number_of_moves, length_minutes,
     Nine minute: 9 minutes 0 seconds
     '''
     
-    scenery_length = {   #Dictionary of how many frames of the video is taken up by the scenery used. Key is number of scenery clips//value is total frames
+    scenery_length = {   #Dictionary of how many frames of the video is taken up by the scenery used. Key is number of scenery clips and value is total frames
                     "0": 0,
                     "2": 3600,
                     "3": 3840,
